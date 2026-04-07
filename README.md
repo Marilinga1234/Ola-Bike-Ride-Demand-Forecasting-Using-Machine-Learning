@@ -111,7 +111,7 @@ Manjunath S, Likith Reddy, Justin Sebastian Thomas, Marilinga.
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/Code10x-letscodewithManju/OlaBikeRideDemandForecastingUsingML.git
+git clone https://github.com/Marilinga1234/Ola-Bike-Ride-Demand-Forecasting-Using-Machine-Learning.git
 cd OlaBikeRideDemandForecastingUsingML
 ```
 
